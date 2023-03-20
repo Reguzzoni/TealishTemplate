@@ -1,0 +1,3 @@
+tealish compile examples/counter_prize.tl
+
+tealish build examples/counter_prize.tl
